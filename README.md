@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! :D
 
 <!--
 **IcePillow-cmd/IcePillow-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+I am an aspiring **web dev hobbyist** and I'm currently working on improving my very basic skills
+I'm currently working on different kinds of beginner projects that I used to improve my knowledge.
+I'm currently learning HTML, CSS, and Javascript. I usually wonder around and just learn some things I wanna learn so I don't know what I will gonna do next.
+You can reach me at my discord account which have the same name as this is. 
+
+Thank you! ^ ^
